@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsolver_l.a CMakeFiles/solver_l.dir/solver.cpp.o
+/usr/bin/ranlib libsolver_l.a

@@ -1,0 +1,17 @@
+/home/bivan/Amperka04/workspace/projects/lab03/buid/CMakeFiles/edit_cache.dir
+/home/bivan/Amperka04/workspace/projects/lab03/buid/CMakeFiles/rebuild_cache.dir
+/home/bivan/Amperka04/workspace/projects/lab03/buid/formatter_ex_lib/CMakeFiles/formatter_ex.dir
+/home/bivan/Amperka04/workspace/projects/lab03/buid/formatter_ex_lib/CMakeFiles/edit_cache.dir
+/home/bivan/Amperka04/workspace/projects/lab03/buid/formatter_ex_lib/CMakeFiles/rebuild_cache.dir
+/home/bivan/Amperka04/workspace/projects/lab03/buid/formatter_lib/CMakeFiles/formatter.dir
+/home/bivan/Amperka04/workspace/projects/lab03/buid/formatter_lib/CMakeFiles/edit_cache.dir
+/home/bivan/Amperka04/workspace/projects/lab03/buid/formatter_lib/CMakeFiles/rebuild_cache.dir
+/home/bivan/Amperka04/workspace/projects/lab03/buid/solver_lib/CMakeFiles/solver_l.dir
+/home/bivan/Amperka04/workspace/projects/lab03/buid/solver_lib/CMakeFiles/edit_cache.dir
+/home/bivan/Amperka04/workspace/projects/lab03/buid/solver_lib/CMakeFiles/rebuild_cache.dir
+/home/bivan/Amperka04/workspace/projects/lab03/buid/solver_application/CMakeFiles/solva.dir
+/home/bivan/Amperka04/workspace/projects/lab03/buid/solver_application/CMakeFiles/edit_cache.dir
+/home/bivan/Amperka04/workspace/projects/lab03/buid/solver_application/CMakeFiles/rebuild_cache.dir
+/home/bivan/Amperka04/workspace/projects/lab03/buid/hello_world_application/CMakeFiles/hello.dir
+/home/bivan/Amperka04/workspace/projects/lab03/buid/hello_world_application/CMakeFiles/edit_cache.dir
+/home/bivan/Amperka04/workspace/projects/lab03/buid/hello_world_application/CMakeFiles/rebuild_cache.dir
